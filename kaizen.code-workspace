@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "customer"
+		},
+		{
+			"path": "project"
 		}
 	],
 	"settings": {}
